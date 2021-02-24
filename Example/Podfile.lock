@@ -1,0 +1,27 @@
+PODS:
+  - CGPodTest (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - CGPodTest (from `../`)
+  - FBSnapshotTestCase
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  CGPodTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CGPodTest: 6c551299c04c99c4f2f8b0171428b840240b1c85
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 4554f2dc2b99201740151d3fd0c5d365927fbab6
+
+COCOAPODS: 1.9.1

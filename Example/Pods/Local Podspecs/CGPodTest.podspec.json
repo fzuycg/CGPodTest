@@ -1,0 +1,22 @@
+{
+  "name": "CGPodTest",
+  "version": "0.1.0",
+  "summary": "A short description of CGPodTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yangchungui/CGPodTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yangchungui": "yangchungui@cibfintech.com"
+  },
+  "source": {
+    "git": "https://github.com/yangchungui/CGPodTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "CGPodTest/Classes/**/*"
+}
